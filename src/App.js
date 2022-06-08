@@ -25,7 +25,6 @@ const StarRating = () => {
         margin: '10',
         display: 'flex',
         justifyContent: 'center',
-        width: '50'
       }}
     >
       {starArr.map((id) => (
